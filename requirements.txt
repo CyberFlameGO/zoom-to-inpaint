@@ -1,4 +1,4 @@
-tensorflow==2.4.0
+tensorflow==2.11.1
 absl_py==0.10.0
 numpy==1.19.4
 opencv_python==4.4.0.46
